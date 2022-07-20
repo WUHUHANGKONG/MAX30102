@@ -6,11 +6,11 @@
 #### 概览
 ![](presentation1.jpg)
 ![](presentation2.jpg)
-#### 安装教程
+#### 功能简介
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  实时测量心率和血氧
+2.  对于异常血氧和心率数值进行报警
+3.  在thingswise平台上展示传感器读取数据
 
 #### 使用说明
 
